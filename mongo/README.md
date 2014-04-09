@@ -15,7 +15,7 @@ Mongo can be configured for a Modulus application via the
 
     $ modulus addons add mongo:base
 
-Or from the [web interface][https://addons.modulus.io/mongo].
+Or from the [web interface](https://addons.modulus.io/mongo).
 
 _Note that the Mongo add-on [billing](https://modulus.io/pricing) works the same
 as the standard Modulus hosted MongoDB solution._
